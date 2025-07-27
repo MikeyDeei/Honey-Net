@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/tMxbbpd.png" height="700%" width="70%" alt="Sentinel logo"/>
 </p>
 
-<h1> Azure Clould Detection Lab </h1>
+<h1> Azure Cloud Detection Lab </h1>
 This Lab demonstrates a highly vulnerable environment leaving many attack surfaces open for 24 hours. With the incoming traffic from all around the world we can study the data in Sentinel(SIEM) and practice Incident Response. <br />
 
 
